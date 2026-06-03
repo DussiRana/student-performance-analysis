@@ -1,14 +1,14 @@
-# 📊 Student Performance Analysis
+#  Student Performance Analysis
 
 A beginner-friendly **Python Data Analytics** project that analyzes student marks, calculates grades, and creates visual charts.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Python 3**
 - **pandas** — for data loading, cleaning, and analysis
 - **matplotlib** — for charts and visualization
 - **CSV** — dataset format
 
-## 📁 Project Structure
+##  Project Structure
 ```
 student_analysis/
 │
@@ -22,29 +22,18 @@ student_analysis/
 └── README.md
 ```
 
-## 📌 Features
-- Loads and cleans student data from CSV
+## Features
+<!-- - Loads and cleans student data from CSV
 - Calculates total marks and percentage for each student
 - Assigns grades (A+, A, B, C, D, F)
 - Shows top 3 and bottom 3 students
 - Displays subject-wise class averages
-- Saves 3 charts as PNG images
+- Saves 3 charts as PNG images -->
 
-## ▶️ How to Run
 
-**Step 1:** Install required libraries
-```bash
-pip install pandas matplotlib
-```
 
-**Step 2:** Run the script
-```bash
-python analysis.py
-```
 
-**Step 3:** Check the `charts/` folder for generated graphs
-
-## 📊 Sample Output
+##  Sample Output
 ```
 [RESULTS] Subject-wise Average Marks:
   Math        : 72.40 / 100
